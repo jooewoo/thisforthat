@@ -50,9 +50,3 @@ These are the following steps I took to recreating this website.
 
 **NOTE** Any issues or bugs I ran into, I would either google or log the code to evaluate what the issue was.
 **NOTE** Ran into one issue with the API call, but provided the stack overflow link that helped me solve the error.
-
-## Technologies Used
-
-Semantic-ui-react
-axios
-proptypes
